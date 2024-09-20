@@ -1,5 +1,5 @@
 # How to Install Grafana on CentOS
-Grafana is an open-source platform used for monitoring, visualizing, and analyzing metrics and logs from various data sources. It’s widely used by IT teams, developers, and data analysts to track the performance of systems, applications, and infrastructures in real time.
+Grafana is an open-source platform used for monitoring, visualizing, and analyzing metrics and logs from various data sources. It is widely used by IT teams, developers, and data analysts to track the performance of systems, applications and infrastructures in real time.
 In the guide, we will look at how to install Grafana on CentOS Stream 9.
 ## How to Install Grafana on CentOS Stream 9
 Since the Grafana repository is not included by default in CentOS Stream, you need to manually add the official Grafana repository to your system’s repository list.
